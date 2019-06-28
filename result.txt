@@ -1,0 +1,57 @@
+
+            English
+          
+Argentine Peso: ARS1,124.20
+Australian Dollar: A$22.94
+Algerian Dinar: DZD3,077.64
+Euro: €22.94
+Peruvian Nuevo Sol: PEN85.60
+
+            Français
+          
+peso argentin: 1 124,20 $AR
+dollar australien: 22,94 $AU
+dinar algérien: 3 077,64 DZD
+euro: 22,94 €
+nouveau sol péruvien: 85,60 PEN
+
+            اللغة العربية
+          
+بيزو أرجنتيني: PEN 85٫60
+دولار أسترالي: AU$ 22٫94
+دينار جزائري: د.ج.‏ 3٬077٫64
+يورو: € 22٫94
+سول جديد البيرو: PEN 85٫60
+
+            Español PE
+          
+peso argentino: ARS1,124.20
+dólar australiano: AUD22.94
+dinar argelino: DZD3,077.64
+euro: EUR22.94
+nuevo sol peruano: S/.85.60
+
+            Español
+          
+peso argentino: 1.124,20 ARS
+dólar australiano: 22,94 AUD
+dinar argelino: 3.077,64 DZD
+euro: 22,94 €
+nuevo sol peruano: 85,60 PEN
+
+            Español AR
+          
+peso argentino: PEN85,60
+dólar australiano: AUD22,94
+dinar argelino: DZD3.077,64
+euro: EUR22,94
+nuevo sol peruano: PEN85,60
+
+            Deutsch
+          
+Argentinischer Peso: 1.124,20 ARS
+Australischer Dollar: 22,94 AU$
+Algerischer Dinar: 3.077,64 DZD
+Euro: 22,94 €
+Peruanischer Neuer Sol: 85,60 PEN
+--------End Of Script :-* --------
